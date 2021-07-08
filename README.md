@@ -35,6 +35,20 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - Gradient Descent 알고리즘 정리
 [Gradient Descent Optimization Algorithms 정리](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
 
+- 머신러닝 vs 딥러닝 차이점 (유튜브 MATLAB Korea채널)
+[머신러닝 vs 딥러닝 차이점](https://www.youtube.com/watch?v=8A5zGR66pWw&ab_channel=MATLABKorea)
+
+- 부스트코스 (강의 사이트)
+[boostcourse](https://www.boostcourse.org/)
+
+- KAIST Mooc (강의 사이트)
+[KOOC](https://kaist.edwith.org/)
+
+- 논문 읽는 법
+[[Paper] 논문 읽는법, 쓰는법, 투고하는법](https://theorydb.github.io/dev/2019/08/27/dev-papertomath-paper-io/)
+
+- 선형 대수 기초 자료
+[[e-book] 선형대수의 기초 - 행렬, 벡터 ](https://blog.daum.net/eigenvalue/10856412)
 
 <br><br><br>
 
