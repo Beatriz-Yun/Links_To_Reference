@@ -63,6 +63,8 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - Weava Highlighter(구글 확장프로그램)<br>
 [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei)
 
+- 슬랙, 트렐로, gather...
+
 
 <br><br><br>
 
