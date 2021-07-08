@@ -27,3 +27,6 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 
 - CNN Explainer<br>
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+- 딥러닝 공부자료 추천목록
+[Datascience by Yngie](https://yngie-c.github.io/daily/2020/11/15/have_studied/)
