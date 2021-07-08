@@ -14,8 +14,8 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 ## 📖TO STUDY📖
 
 - 파이썬의 iterator와 iterable 차이<br>
-[파이썬 이터레이터(iterator)와 이터러블(iterable) 차이점](https://sikaleo.tistory.com/61) <br>
-[Difference between iterable and iterator](https://www.geeksforgeeks.org/python-difference-iterable-iterator/)
+[파이썬 이터레이터(iterator)와 이터러블(iterable) 차이점](https://sikaleo.tistory.com/61){: target="_blank"} <br>
+[Difference between iterable and iterator](https://www.geeksforgeeks.org/python-difference-iterable-iterator/){: target="_blank"}
 
 - github 튜토리얼<br>
 [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
