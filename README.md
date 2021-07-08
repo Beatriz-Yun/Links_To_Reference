@@ -20,7 +20,7 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - github 튜토리얼<br>
 [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
 
-- 딥러닝을 이용한 자연어처리 입문<br>
+- 딥러닝을 이용한 자연어처리 입문 (랩실에 있을 때 교수님 추천)<br>
 [위키독스](https://wikidocs.net/book/2155)
 
 - 알고리즘 관련 유튜브 강의<br>
