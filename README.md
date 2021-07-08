@@ -32,6 +32,8 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - git 명령어 기초<br>
 [Git 저장소 생성 및 커밋](https://ifuwanna.tistory.com/193)
 
+- Gradient Descent 알고리즘 정리
+[Gradient Descent Optimization Algorithms 정리](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
 
 
 <br><br><br>
