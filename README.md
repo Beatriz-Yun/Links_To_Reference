@@ -10,3 +10,7 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 
 - 자료구조 시각화 툴<br>
 [visualgo](https://visualgo.net/en/heap?slide=1)
+
+
+- 선형대수학 정리<
+[공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
