@@ -65,6 +65,9 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - Weava Highlighter(구글 확장프로그램)<br>
 [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei)
 
+- 수식을 마크다운으로 변환해주는 프로 (월 50회 무료)<br>
+[Mathpix Snip:Authoring Tools for STEM](https://mathpix.com/?fbclid=IwAR2c4VS_rX1nqdoKoonltwe6SS8JZ8j_1XWKzO0SmDrlHR6-yYfz-V-ZjLg)
+
 - 슬랙, 트렐로, gather...
 
 
