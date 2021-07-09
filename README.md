@@ -52,6 +52,9 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - 선형 대수 기초 자료<br>
 [[e-book] 선형대수의 기초 - 행렬, 벡터 ](https://blog.daum.net/eigenvalue/10856412)
 
+- 영상처리 관련 블로그(기계학습, 선형대수 등)<br>
+[다크 ](https://darkpgmr.tistory.com/)
+
 <br><br><br>
 
 ## ⛏USEFUL TOOLS⛏
