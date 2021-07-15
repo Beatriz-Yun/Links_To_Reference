@@ -93,4 +93,5 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - 인공지능 분야별 서적 추천<br>
 [[개앞맵시] 스카이넷도 딥러닝부터](https://www.mindmeister.com/ko/812276967/_?fullscreen=1#)
 
-
+- 데이터 사이언스 스쿨<br>
+[데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
