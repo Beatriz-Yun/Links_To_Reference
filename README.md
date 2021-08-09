@@ -59,7 +59,7 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
 
 - LSTM 설명<br>
-[Long Short-Term Memory (LSTM) 이해하기]https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
+[Long Short-Term Memory (LSTM) 이해하기](https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
 
 <br><br><br>
 
