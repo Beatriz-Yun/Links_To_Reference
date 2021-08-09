@@ -6,7 +6,7 @@
 AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 정보들이 다양하기 때문에, 한 주제가 언급될 때 각자 알고 있는 팁, 참고하면 좋은 곳, 검색 결과 등을 하나 씩만 공유해도 퀄리티 좋은 정보, 지식들이 쌓인 다는 것이다.
 이런 정보들이 계속 산발적으로 보관되던 와중에 이 링크들을 어떻게 정리해놓아야 필요할 때 참고할 수 있을 까 고민하다가 링크들만 모아놓는 레포지토리를 만들면 좋을 것 같다고 생각했다. 공유받은 것 외에도 내가 따로 모아놓았던 유용한 링크들도 추가한다.
 <br><br>
-📢**유의!!** 새탭에서 열기가 안됩니다. **ctrl+클릭** 또는 **오른쪽클릭 후 새탭으로 열기**를 눌러주세요!!
+📢**유의!!** 바로 클릭하면 새탭에서 열기가 안됩니다. **ctrl+클릭** 또는 **오른쪽클릭 후 새탭으로 열기**를 눌러주세요!!
 <br><br>
 
 ---
@@ -53,7 +53,13 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 [[e-book] 선형대수의 기초 - 행렬, 벡터 ](https://blog.daum.net/eigenvalue/10856412)
 
 - 영상처리 관련 블로그(기계학습, 선형대수 등)<br>
-[다크 ](https://darkpgmr.tistory.com/)
+[다크프로그래머](https://darkpgmr.tistory.com/)
+
+- RNN 설명<br>
+[Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+
+- LSTM 설명<br>
+[Long Short-Term Memory (LSTM) 이해하기]https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
 
 <br><br><br>
 
