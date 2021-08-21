@@ -101,3 +101,6 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 
 - 데이터 사이언스 스쿨<br>
 [데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
+
+- 딥러닝 공부 가이드<br>
+[How-to-learn-Deep-Learning](https://github.com/emilwallner/How-to-learn-Deep-Learning)
