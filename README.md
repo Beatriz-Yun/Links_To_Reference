@@ -61,6 +61,9 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - LSTM 설명<br>
 [Long Short-Term Memory (LSTM) 이해하기](https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
 
+- 추천시스템 알고리즘 트렌드 정리<br>
+[추천(Recommendation) 시스템 - 알고리즘 Trend 정리](http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
+
 <br><br><br>
 
 ## ⛏USEFUL TOOLS⛏
