@@ -83,6 +83,9 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - Explore connected papers in a visual graph<br>
 [CONNECTED PAPERS](https://www.connectedpapers.com/)
 
+- The Latest in Machine Learning (논문과 코드)<br>
+[Papers with Code](https://paperswithcode.com/)
+
 - 슬랙, 트렐로, gather...
 
 
