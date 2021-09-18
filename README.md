@@ -113,3 +113,6 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 
 - 딥러닝 공부 가이드<br>
 [How-to-learn-Deep-Learning](https://github.com/emilwallner/How-to-learn-Deep-Learning)
+
+- 논문 모음<br>
+[Papers You Must Read (PYMR)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
