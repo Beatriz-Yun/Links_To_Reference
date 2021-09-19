@@ -116,3 +116,6 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 
 - 논문 모음<br>
 [Papers You Must Read (PYMR)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
+
+- 머신러닝 엔지니어 <br>
+[Machine Learning Engineer Roadmap in 2021](https://github.com/chris-chris/ml-engineer-roadmap?fbclid=IwAR0cM6A02ZjAzDXc1yOKkXrnPR2PLE4jxnHk4CFeSpwaG1IU8qoymOMZ3U8)
