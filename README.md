@@ -64,6 +64,9 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 - 추천시스템 알고리즘 트렌드 정리<br>
 [추천(Recommendation) 시스템 - 알고리즘 Trend 정리](http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
 
+- 파이토치 기초 (한국어) <br>
+[파이토치 기초](https://wikidocs.net/57168)
+
 <br><br><br>
 
 ## ⛏USEFUL TOOLS⛏
