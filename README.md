@@ -122,3 +122,6 @@ AIFFEL을 진행하면서 제일 좋은 점은 각자 가지고 있는 팁과 �
 
 - 머신러닝 엔지니어 <br>
 [Machine Learning Engineer Roadmap in 2021](https://github.com/chris-chris/ml-engineer-roadmap?fbclid=IwAR0cM6A02ZjAzDXc1yOKkXrnPR2PLE4jxnHk4CFeSpwaG1IU8qoymOMZ3U8)
+
+- Distill <br>
+[Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.](https://distill.pub/)
